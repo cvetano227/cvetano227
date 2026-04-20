@@ -25,7 +25,7 @@ My goal is to evolve into a full-stack JavaScript engineer working with modern M
 ## ⚙️ Tech Stack
 
 **Frontend**
-- HTML5 / CSS3 (Advanced)
+- HTML5 / CSS3 (Advanced) SaSS (Learning)
 - JavaScript (learning → advanced)
 - Responsive UI development
 

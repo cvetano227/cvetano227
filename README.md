@@ -54,14 +54,6 @@ My goal is to evolve into a full-stack JavaScript engineer working with modern M
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cvetano227&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cvetano227&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## 📫 Contact
 
 - Email: cvetano227@gmail.com  

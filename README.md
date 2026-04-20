@@ -56,14 +56,14 @@ My goal is to evolve into a full-stack JavaScript engineer working with modern M
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cvetano227&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cvetano227&layout=compact&theme=dark&hide_border=true)
 
 ---
 
 ## 📫 Contact
 
-- Email: your-email@example.com  
-- LinkedIn: https://linkedin.com/in/your-profile  
-- GitHub: https://github.com/YOUR_USERNAME  
+- Email: cvetano227@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/valentin-cvetanovski227
+- GitHub: https://github.com/cvetano227

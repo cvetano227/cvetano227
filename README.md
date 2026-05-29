@@ -1,61 +1,105 @@
-# Valentin Cvetanovski
-
-Frontend Developer → MERN Stack (JavaScript Ecosystem)
-
----
-
-## 👋 About Me
-
-I am a frontend developer focused on building strong foundations in **JavaScript, UI architecture, and scalable web systems**.
-
-My goal is to evolve into a full-stack JavaScript engineer working with modern MERN-based applications.
+<!-- HERO HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&pause=900&color=D72638&center=true&vCenter=true&width=700&lines=Valentin+Cvetanovski;Frontend+Engineer;JavaScript+%7C+UI+Systems+%7C+MERN+Path;Building+Production-Grade+Web+Applications" />
+</p>
 
 ---
 
-## 🧠 Focus
+# 👋 Valentin Cvetanovski
 
-- JavaScript (core logic, DOM, ES6+)
-- Advanced CSS & design systems
-- Component-based UI thinking
-- Full-stack JavaScript ecosystem (MERN)
-- Clean, scalable code structure
-
----
-
-## ⚙️ Tech Stack
-
-**Frontend**
-- HTML5 / CSS3 (Advanced) SaSS (Learning)
-- JavaScript (learning → advanced)
-- Responsive UI development
-
-**Tools**
-- Git & GitHub
-- VS Code
-- Figma (UI understanding)
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-Engineer-D72638?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-Core%20Focus-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Building-UI%20Systems-blue?style=for-the-badge" />
+</p>
 
 ---
 
-## 🧩 What I Build
+## 🧠 About Me
 
-- Component-driven UI systems
-- Responsive landing pages
-- Design system experiments
-- JavaScript logic-based mini applications
+Frontend Engineer focused on building **structured, production-style web applications using JavaScript and modern UI architecture principles**.
+
+I specialize in turning ideas into **clean, scalable, and interactive interfaces**, with a strong focus on:
+
+- UI system design (not just pages)
+- JavaScript logic and state handling
+- Component-based thinking (vanilla → React-ready)
+- Responsive and consistent interface behavior
+
+Currently evolving toward a **full-stack MERN engineer**, building complete end-to-end applications.
 
 ---
 
-## 🧠 How I Think
+## ⚙️ Core Engineering Focus
 
-- I build systems, not pages
-- I prioritize structure before styling
-- I focus on reusability and consistency
-- I learn by building real interfaces, not just tutorials
+- JavaScript (ES6+, DOM architecture, async workflows)
+- UI engineering (layout systems, spacing logic, consistency)
+- Responsive design systems (mobile-first thinking)
+- Component-driven frontend structure
+- Clean, scalable code organization
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,sass,git,github,vscode,figma" />
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### 🛒 ZCommerce — JavaScript E-Commerce System
+
+A frontend e-commerce application built with **vanilla JavaScript**, focusing on real-world UI structure and application logic.
+
+**Core Work:**
+- Dynamic product rendering from API
+- Cart system with quantity/state handling
+- Real-time price calculation
+- Component-style architecture (no frameworks)
+- Responsive UI (actively being refined)
+
+> Focus: JavaScript architecture, UI consistency, and scalable frontend structure
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=cvetano227&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Improving responsive UI behavior across breakpoints  
+- Strengthening JavaScript architecture skills  
+- Building production-style frontend systems  
+- Preparing transition into React + backend (MERN stack)
+
+---
+
+## 🧠 Engineering Mindset
+
+- I build systems, not pages  
+- Structure and consistency come before styling  
+- I focus on reusable UI logic  
+- Real-world projects > tutorials  
+- I optimize for maintainability, not just functionality  
 
 ---
 
 ## 📫 Contact
 
-- Email: cvetano227@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/valentin-cvetanovski227
-- GitHub: https://github.com/cvetano227
+- 📧 Email: cvetano227@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/valentin-cvetanovski227  
+- 💻 GitHub: https://github.com/cvetano227  
+
+---
+
+## ⭐ Closing Note
+
+This profile represents a focused progression toward becoming a **production-ready Frontend Engineer specializing in JavaScript UI systems and full-stack MERN development**.

@@ -48,23 +48,6 @@ Currently evolving toward a **full-stack MERN engineer**, building complete end-
 
 ---
 
-## 🚀 Featured Project
-
-### 🛒 ZCommerce — JavaScript E-Commerce System
-
-A frontend e-commerce application built with **vanilla JavaScript**, focusing on real-world UI structure and application logic.
-
-**Core Work:**
-- Dynamic product rendering from API
-- Cart system with quantity/state handling
-- Real-time price calculation
-- Component-style architecture (no frameworks)
-- Responsive UI (actively being refined)
-
-> Focus: JavaScript architecture, UI consistency, and scalable frontend structure
-
----
-
 ## 📊 GitHub Activity
 
 <p align="center">

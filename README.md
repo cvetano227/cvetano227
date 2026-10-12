@@ -1,3 +1,4 @@
+
 <!-- HERO HEADER -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&pause=900&color=D72638&center=true&vCenter=true&width=700&lines=Valentin+Cvetanovski;Frontend+Engineer;JavaScript+%7C+UI+Systems+%7C+MERN+Path;Building+Production-Grade+Web+Applications" />
@@ -51,35 +52,38 @@ Currently evolving toward a **full-stack MERN engineer**, building complete end-
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=cvetano227&theme=radical&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=cvetano227&theme=radical&hide_border=true&v=2"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
-- Improving responsive UI behavior across breakpoints  
-- Strengthening JavaScript architecture skills  
-- Building production-style frontend systems  
+- Improving responsive UI behavior across breakpoints
+- Strengthening JavaScript architecture skills
+- Building production-style frontend systems
 - Preparing transition into React + backend (MERN stack)
 
 ---
 
 ## 🧠 Engineering Mindset
 
-- I build systems, not pages  
-- Structure and consistency come before styling  
-- I focus on reusable UI logic  
-- Real-world projects > tutorials  
-- I optimize for maintainability, not just functionality  
+- I build systems, not pages
+- Structure and consistency come before styling
+- I focus on reusable UI logic
+- Real-world projects > tutorials
+- I optimize for maintainability, not just functionality
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: cvetano227@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/valentin-cvetanovski227  
-- 💻 GitHub: https://github.com/cvetano227  
+- 📧 Email: cvetano227@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/valentin-cvetanovski227
+- 💻 GitHub: https://github.com/cvetano227
 
 ---
 

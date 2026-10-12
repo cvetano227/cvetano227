@@ -1,7 +1,11 @@
 
-<!-- HERO HEADER -->
+<!-- GITHUB PROFILE README -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2800&pause=900&color=D72638&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Valentin+Cvetanovski;Full-Stack+JavaScript+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+Real-World+SaaS+Applications" alt="Animated Header" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=9472F4&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Valentin+Cvetanovski;Full-Stack+JavaScript+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Founder+%26+Developer+of+GoLevelBeyond;Building+Real-World+SaaS+Applications"
+    alt="Animated Introduction"
+  />
 </p>
 
 <h3 align="center">
@@ -9,9 +13,18 @@
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack-JavaScript-D72638?style=for-the-badge" alt="Full Stack JavaScript" />
-  <img src="https://img.shields.io/badge/Focus-SaaS%20Development-181717?style=for-the-badge" alt="SaaS Development" />
-  <img src="https://img.shields.io/badge/Location-North%20Macedonia-0077B5?style=for-the-badge" alt="North Macedonia" />
+  <img src="https://img.shields.io/badge/Full--Stack-JavaScript-9472F4?style=for-the-badge&logo=javascript&logoColor=white" alt="Full Stack JavaScript" />
+  <img src="https://img.shields.io/badge/Building-GoLevelBeyond-C8A8FF?style=for-the-badge&logoColor=white" alt="GoLevelBeyond" />
+  <img src="https://img.shields.io/badge/Location-North%20Macedonia-141B2D?style=for-the-badge" alt="North Macedonia" />
+</p>
+
+<p align="center">
+  <a href="https://golevelbeyond.com">
+    <img src="https://img.shields.io/badge/Explore-GoLevelBeyond-9472F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="GoLevelBeyond Website" />
+  </a>
+  <a href="https://github.com/cvetano227">
+    <img src="https://img.shields.io/badge/GitHub-cvetano227-141B2D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
 </p>
 
 ---
@@ -20,15 +33,16 @@
 
 I'm a **full-stack JavaScript developer and SaaS builder** specializing in React, Node.js, Express, and MongoDB.
 
-I'm the creator of **GoLevelBeyond**, a full-stack CRM platform designed for B2B sales teams, featuring multi-tenant workspaces, sales pipelines, email integrations, and automation.
+I'm the creator of **GoLevelBeyond**, a full-stack SaaS CRM platform designed for small businesses and B2B sales teams. The platform brings together customer management, sales pipelines, email integrations, automation, and team collaboration in one shared workspace.
 
-My background in sales operations, account management, and business development gives me a practical understanding of the challenges businesses face. I combine that experience with software engineering to develop applications that solve real-world problems.
+My professional background in sales operations, account management, and business development gives me a practical understanding of real business challenges. I combine that experience with software development to build applications that solve meaningful problems.
 
-- 🚀 Founder and developer of **GoLevelBeyond**
-- 💻 Building full-stack applications with the MERN stack
-- 🔐 Experienced with JWT authentication, REST APIs, and integrations
-- 📈 Focused on SaaS platforms, business automation, and CRM systems
-- 🎯 Continuously improving software architecture, performance, and scalability
+- 🚀 **Founder & Developer:** [GoLevelBeyond](https://golevelbeyond.com)
+- 💻 **Stack:** React, JavaScript, Node.js, Express, MongoDB
+- 🔐 **Backend:** REST APIs, JWT authentication, third-party integrations
+- ⚙️ **Focus:** SaaS platforms, CRM systems, and business automation
+- 📈 **Interests:** Software architecture, scalability, and product development
+- 🌍 **Based in:** North Macedonia
 
 ---
 
@@ -36,20 +50,29 @@ My background in sales operations, account management, and business development 
 
 ### Frontend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,sass,bootstrap" alt="Frontend Technologies" />
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,react,vite,sass,bootstrap"
+    alt="Frontend Technologies"
+  />
 </p>
 
 ### Backend & Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Technologies" />
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=nodejs,express,mongodb"
+    alt="Backend Technologies"
+  />
 </p>
 
 ### Development Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma" alt="Development Tools" />
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma"
+    alt="Development Tools"
+  />
 </p>
 
 ---
@@ -58,34 +81,47 @@ My background in sales operations, account management, and business development 
 
 ### GoLevelBeyond — Full-Stack SaaS CRM
 
-**GoLevelBeyond** is a customer relationship management platform built to help small businesses and B2B sales teams manage customers, sales processes, communication, and daily operations through a unified workspace.
+<p align="center">
+  <a href="https://golevelbeyond.com">
+    <img
+      src="https://img.shields.io/badge/GoLevelBeyond-Visit%20Website-9472F4?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Visit GoLevelBeyond"
+    />
+  </a>
+</p>
 
-The platform is designed around practical business workflows, with an emphasis on usability, automation, and scalable application architecture.
+**GoLevelBeyond** is a full-stack customer relationship management platform designed to help small businesses and B2B sales teams manage customers, track opportunities, organize communication, and streamline their daily workflows.
 
-### Key Features
+The platform focuses on practical business functionality, intuitive user experience, and scalable SaaS architecture.
 
-- **Multi-Tenant Workspaces** — Separate business workspaces with user management
-- **Contact Management** — Organize customers, contacts, and companies
-- **Sales Pipeline** — Track opportunities and manage deal progression
-- **Task Management** — Organize activities and follow-ups
-- **Dashboard** — Centralized overview of business operations
+### Core Features
+
+- **Multi-Tenant Workspaces** — Independent business workspaces and team management
+- **Contact & Company Management** — Centralized customer and company records
+- **Sales Pipeline** — Deal tracking, opportunity management, and sales stages
+- **Task Management** — Follow-ups, activities, and daily workflow organization
+- **Dashboard & Reporting** — Business activity and performance insights
 - **Email Integrations** — Gmail and Microsoft Outlook connectivity
-- **Email Automation** — Schedule emails and automate communication workflows
-- **CSV Importing** — Bulk import contacts with validation and duplicate handling
-- **Authentication** — Secure account access and protected API endpoints
-- **REST APIs** — Backend services for managing application data
+- **Email Scheduling** — Schedule outgoing emails and follow-ups
+- **Email Automation** — Automated communication workflows
+- **CSV Importing** — Bulk contact importing with validation and duplicate handling
+- **Authentication** — Protected accounts and API endpoints
+- **RESTful APIs** — Backend services supporting application functionality
 
-### Technology
+### Technology & Architecture
 
-**Frontend:** React, JavaScript, HTML, CSS
+| Layer | Technology |
+|---|---|
+| Frontend | React, JavaScript, HTML, CSS |
+| Backend | Node.js, Express.js |
+| Database | MongoDB |
+| Authentication | JWT |
+| Architecture | REST APIs, Multi-Tenant SaaS |
+| Integrations | Gmail, Outlook, Third-Party APIs |
 
-**Backend:** Node.js, Express.js
+**Project Status:** Built and undergoing continued development, optimization, and feature improvements.
 
-**Database:** MongoDB
-
-**Architecture:** REST APIs, multi-tenant workspaces, authentication, third-party integrations
-
-**Status:** Built and undergoing continued development and improvements.
+**Website:** https://golevelbeyond.com
 
 ---
 
@@ -93,15 +129,19 @@ The platform is designed around practical business workflows, with an emphasis o
 
 <p align="center">
   <a href="https://github.com/cvetano227">
-    <img src="https://img.shields.io/badge/VIEW%20GITHUB%20CONTRIBUTIONS-D72638?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Contributions" />
-  </a>
-  <a href="https://github.com/cvetano227?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories" />
+    <img
+      src="./assets/github-dashboard.svg"
+      alt="Valentin Cvetanovski GitHub Activity Dashboard"
+      width="100%"
+    />
   </a>
 </p>
 
 <p align="center">
-  Explore my development activity, open-source repositories, and ongoing projects directly on GitHub.
+  <sub>
+    Live GitHub statistics generated automatically using GitHub Actions.
+    Contributions, repositories, stars, followers, and development activity.
+  </sub>
 </p>
 
 ---
@@ -111,36 +151,54 @@ The platform is designed around practical business workflows, with an emphasis o
 - Full-stack JavaScript application development
 - React component architecture and state management
 - RESTful API design and backend development
-- MongoDB data modeling and database operations
-- Authentication, authorization, and application security
-- Third-party integrations and automated workflows
+- MongoDB database modeling and operations
+- JWT authentication and authorization
+- Third-party API integrations
+- Automated workflows and communication systems
 - Multi-tenant SaaS architecture
-- Application performance, scalability, and deployment
+- Application security, performance, and scalability
+- Production deployment and ongoing maintenance
 
 ---
 
 ## ⚙️ Development Philosophy
 
 - **Build products, not just projects.**
-- Focus on solving real business problems.
-- Write reusable and maintainable code.
-- Design systems with scalability in mind.
-- Prioritize user experience and consistency.
-- Continuously improve through real-world development.
+- Solve real business problems through software.
+- Write maintainable, reusable, and scalable code.
+- Prioritize user experience and consistent interfaces.
+- Build systems that support real operational workflows.
+- Continuously improve through hands-on development.
+- Focus on long-term product quality and reliability.
 
 ---
 
-## 📫 Let's Connect
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:cvetano227@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D72638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img
+      src="https://img.shields.io/badge/Email-9472F4?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
   <a href="https://www.linkedin.com/in/valentin-cvetanovski227">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
   <a href="https://github.com/cvetano227">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img
+      src="https://img.shields.io/badge/GitHub-141B2D?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+  <a href="https://golevelbeyond.com">
+    <img
+      src="https://img.shields.io/badge/GoLevelBeyond-9472F4?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="GoLevelBeyond"
+    />
   </a>
 </p>
 

@@ -53,7 +53,7 @@ Currently evolving toward a **full-stack MERN engineer**, building complete end-
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=cvetano227&theme=radical&hide_border=true&v=2"
+    src="https://streak-stats.demolab.com?user=cvetano227&theme=radical&hide_border=true&timezone=Europe%2FSkopje"
     alt="GitHub Streak"
   />
 </p>
